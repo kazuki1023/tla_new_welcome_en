@@ -8,7 +8,7 @@
     chart: {
     type: 'donut',
   },
-  labels: ['理工', '経済', '商', '文', '法', 'SFC'],
+  labels: ['Science and Technology', 'Economics', 'Business and Commerce', 'Letters', 'Law', 'SFC'],
   colors: ['#228EFA', '#40DE92', '#FAB01A', '#DE7A8A', '#775ED0', '#6E6E6E'],
   responsive: [{
     breakpoint: 480,
